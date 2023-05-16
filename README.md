@@ -2,7 +2,7 @@
 
 - 3rd party frameworks: Alamofire, Kingfisher
 - UI look and feel good for all the screen sizes including iPads
-- Expand/collapse feature for Countries List animated, with no UI 
+- Expand/collapse feature for Countries List animated, with no UI bugs
 - Images caching and reusing them from cache (Kignfisher)
 - “nice” naming 
 - MVC
@@ -20,8 +20,8 @@ iPhone X
 
 iPhone 8
 
-<img width="320" alt="Снимок экрана 2023-05-16 в 11 46 59" src="https![Uploading Снимок экрана 2023-05-16 в 11.47.12.png…]()
-://github.com/DYessenkul/StrongTeamTestAssignment/assets/121435424/dd022144-be57-41a8-a48d-8077754ea4e0"><img width="320" alt="Снимок экрана 2023-05-16 в 11 55 27" src="https://github.com/DYessenkul/StrongTeamTestAssignment/assets/121435424/f88cb8a4-e06a-4030-aec6-05d743f6d8f3">
+<img width="320" alt="Снимок экрана 2023-05-16 в 11 55 27" src="https://github.com/DYessenkul/StrongTeamTestAssignment/assets/121435424/f88cb8a4-e06a-4030-aec6-05d743f6d8f3"><img width="326" alt="Снимок экрана 2023-05-16 в 11 57 23" src="https://github.com/DYessenkul/StrongTeamTestAssignment/assets/121435424/d9abdd9b-f5c7-4d4e-90a1-dff340282816">
+
 
 
 iPad Air
