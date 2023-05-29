@@ -16,7 +16,8 @@ https://drive.google.com/drive/folders/1CDbDproKmy2mkMkefr6AKi7cmZJEnDhY?usp=sha
 
 iPhone 14
 
-<img width="318" alt="Снимок экрана 2023-05-16 в 11 35 49" src="https://github.com/DYessenkul/StrongTeamTestAssignment/assets/121435424/6039db2e-3847-490a-8bde-b30eb3e4fc8e"><img width="325" alt="Снимок экрана 2023-05-16 в 11 36 03" src="https://github.com/DYessenkul/StrongTeamTestAssignment/assets/121435424/4eafda70-739e-4022-b153-f00ec452090b">
+<img width="318" alt="Снимок экрана 2023-05-16 в 11 35 49" src="https://github.com/DYessenkul/StrongTeamTestAssignment/assets/121435424/6039db2e-3847-490a-8bde-b30eb3e4fc8e">
+<img width="325" alt="Снимок экрана 2023-05-16 в 11 36 03" src="https://github.com/DYessenkul/StrongTeamTestAssignment/assets/121435424/4eafda70-739e-4022-b153-f00ec452090b">
 
 iPhone X
 
